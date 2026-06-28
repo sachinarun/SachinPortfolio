@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sachina.dev/sitemap.xml
+Sitemap: https://sachinarun.github.io/SachinPortfolio/sitemap.xml
